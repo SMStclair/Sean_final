@@ -2,6 +2,7 @@
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+
 [Article Analyzed](https://bhsregister.com/6270/feature/students-explore-fantasy-worlds-in-new-dungeons-and-dragons-club/)
 ## Rubric
 
